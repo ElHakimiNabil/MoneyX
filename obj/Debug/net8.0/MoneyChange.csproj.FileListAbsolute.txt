@@ -1,0 +1,14 @@
+C:\Users\post\Desktop\Reecho\test\moneyChange\bin\Debug\net8.0\MoneyChange.exe
+C:\Users\post\Desktop\Reecho\test\moneyChange\bin\Debug\net8.0\MoneyChange.dll
+C:\Users\post\Desktop\Reecho\test\MoneyChange\obj\Debug\net8.0\MoneyChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\post\Desktop\Reecho\test\MoneyChange\obj\Debug\net8.0\MoneyChange.AssemblyInfoInputs.cache
+C:\Users\post\Desktop\Reecho\test\MoneyChange\obj\Debug\net8.0\MoneyChange.AssemblyInfo.cs
+C:\Users\post\Desktop\Reecho\test\MoneyChange\obj\Debug\net8.0\MoneyChange.csproj.CoreCompileInputs.cache
+C:\Users\post\Desktop\Reecho\test\MoneyChange\obj\Debug\net8.0\MoneyChange.dll
+C:\Users\post\Desktop\Reecho\test\MoneyChange\obj\Debug\net8.0\refint\MoneyChange.dll
+C:\Users\post\Desktop\Reecho\test\MoneyChange\obj\Debug\net8.0\MoneyChange.pdb
+C:\Users\post\Desktop\Reecho\test\MoneyChange\bin\Debug\net8.0\MoneyChange.deps.json
+C:\Users\post\Desktop\Reecho\test\MoneyChange\bin\Debug\net8.0\MoneyChange.runtimeconfig.json
+C:\Users\post\Desktop\Reecho\test\MoneyChange\bin\Debug\net8.0\MoneyChange.pdb
+C:\Users\post\Desktop\Reecho\test\MoneyChange\obj\Debug\net8.0\MoneyChange.genruntimeconfig.cache
+C:\Users\post\Desktop\Reecho\test\MoneyChange\obj\Debug\net8.0\ref\MoneyChange.dll
